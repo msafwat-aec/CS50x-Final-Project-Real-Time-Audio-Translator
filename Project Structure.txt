@@ -1,0 +1,41 @@
+real_time_translator/
+|
+|_____ main.py
+|
+|_____ requirments.txt
+|
+|_____ config.json
+|
+|_____ core/
+|   |
+|   |_____ __init__.py
+|   |
+|   |_____ audio_manager.py
+|   |
+|   |_____ ai_manager.py
+|   |
+|   |_____ config_manager.py
+|   |
+|   |_____ device_manager.py
+|
+|
+|
+|_____ gui/
+|   |
+|   |_____ __init__.py
+|   |
+|   |_____ main_window.py
+|   |
+|   |_____ device_panel.py
+|   |
+|   |_____ translation_panel.py
+|
+|
+|
+|_____ utils/
+    |  
+    |_____ __init__.py
+    |
+    |_____ audio_utils.py
+    |
+    |_____ constants.py

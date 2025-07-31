@@ -1,0 +1,16 @@
+{
+  "device_id": 1,
+  "sample_rate": 44100,
+  "channels": 1,
+  "energy_threshold": 0.01,
+  "audio_gain": 1.0,
+  "min_speech_duration": 0.3,
+  "max_speech_duration": 10.0,
+  "silence_timeout": 0.8,
+  "whisper_model": "tiny",
+  "source_language": "it",
+  "target_language": "es",
+  "window_geometry": "1000x750",
+  "show_confidence": true,
+  "auto_scroll": true
+}
