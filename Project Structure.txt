@@ -34,8 +34,5 @@ real_time_translator/
 |
 |_____ utils/
     |  
-    |_____ __init__.py
-    |
-    |_____ audio_utils.py
     |
     |_____ constants.py
