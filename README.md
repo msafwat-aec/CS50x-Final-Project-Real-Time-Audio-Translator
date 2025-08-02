@@ -2,10 +2,10 @@
 
 ## CS50 Final Project
 
-**Name:** [Your Name]  
-**Location:** Dublin, Ireland  
-**Date:** November 2025  
-**Video Demo:** [YouTube Link - To be added]
+**Name:** Mohamed Safwat  
+**Location:** Cork, Ireland  
+**Date:** July 2025  
+**Video Demo:** https://youtu.be/AumcQbQaxY4
 
 ## 🌟 Project Overview
 
@@ -151,7 +151,7 @@ This project is licensed under the MIT License - see LICENSE file for details.
 
 For issues, questions, or suggestions:
 - Open an issue on GitHub
-- Contact: [your-email@example.com]
+- Contact: mohamed.safwat013@gmail.com
 
 ---
 
