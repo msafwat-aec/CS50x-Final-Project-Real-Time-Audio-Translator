@@ -51,7 +51,7 @@ torch>=2.0.0
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/real-time-translator.git
+   git clone https://github.com/msafwat-aec/CS50x-Final-Project-Real-Time-Audio-Translator.git
    cd real-time-translator
    ```
 
